@@ -1,0 +1,47 @@
+header {
+    background-image: url('../img/skyscrapers.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.navbar-custom {
+    /*    background: transparent;*/
+}
+
+.parallax {
+    background-image: url('../img/CoreyCacheLogo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: white;
+    height: 500px;
+    width: 100%;
+}
+
+.navbar-custom {
+    background: #000;
+}
+.skills {
+    color: #000;
+}
+
+.name {
+    color: #000;
+}
+
+.centered {
+    float: none;
+    margin: 0 auto;
+}
