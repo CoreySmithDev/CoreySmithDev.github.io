@@ -45,3 +45,7 @@ header {
     float: none;
     margin: 0 auto;
 }
+
+.portfolio-item img {
+    margin: 0 auto;
+}
