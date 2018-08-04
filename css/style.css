@@ -49,3 +49,8 @@ header {
 .portfolio-item img {
     margin: 0 auto;
 }
+
+.list-inline {
+    display: flex;
+    justify-content: center;
+}
